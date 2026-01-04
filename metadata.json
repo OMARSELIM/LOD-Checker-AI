@@ -1,0 +1,5 @@
+{
+  "name": "LOD Checker AI",
+  "description": "BIM Level of Development (LOD) compliance checker using AI to analyze 3D model screenshots against LOD 300, 400, and 500 standards.",
+  "requestFramePermissions": []
+}
